@@ -70,7 +70,7 @@ python predict.py
 - [x] [Flask API](https://github.com/SchneiderSix/Midterm-Project-Zoomcamp/blob/main/app.py)
 - [x] [Dependency management with Poetry](https://github.com/SchneiderSix/Midterm-Project-Zoomcamp/blob/main/pyproject.toml)
 - [x] [Containerization with Docker](https://github.com/SchneiderSix/Midterm-Project-Zoomcamp/blob/main/docker-compose.yml)
-- [x] [API Deployed on Koyeb](https://nasty-madeleine-schneider-59cb7106.koyeb.app/)
+- [x] ~API Deployed on Koyeb~(not anymore)
 
 ## Contact
 
